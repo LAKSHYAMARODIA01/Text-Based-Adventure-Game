@@ -1,3 +1,4 @@
+# Author : Lakshya Marodia (13_Sep_24)
 # Text-Based Adventure Game
 
 Welcome to the **Text-Based Adventure Game**! This is a simple Python-based interactive game where players navigate through different scenes based on their choices.
